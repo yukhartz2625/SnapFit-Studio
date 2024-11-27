@@ -1,0 +1,1 @@
+Ever wondered how to create a simple e-commerce website? Phone Case Studio is the answer. With a clean HTML and CSS structure, this project showcases phone cases through a user-friendly interface. It’s a fantastic learning resource for developers at all skill levels.
